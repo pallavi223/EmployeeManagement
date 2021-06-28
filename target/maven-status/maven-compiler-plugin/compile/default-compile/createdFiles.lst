@@ -1,0 +1,9 @@
+com\manager\AppConfig.class
+com\manager\service\LoginService.class
+com\manager\WebInitializer.class
+com\manager\dao\LoginDao.class
+com\manager\controller\RestClient.class
+com\manager\model\Employee.class
+com\manager\model\LoginDetails.class
+com\manager\controller\LoginController.class
+com\manager\util\HibernateUtil.class
